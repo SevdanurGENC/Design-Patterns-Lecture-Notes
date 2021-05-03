@@ -1,0 +1,14 @@
+C:\Users\Nano\source\repos\DesignPatterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.exe.config
+C:\Users\Nano\source\repos\DesignPatterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.exe
+C:\Users\Nano\source\repos\DesignPatterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.pdb
+C:\Users\Nano\source\repos\DesignPatterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\DesignPatterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\DesignPatterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.exe
+C:\Users\Nano\source\repos\DesignPatterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\bin\Debug\AbstractFactoryDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\AbstractFactoryDesignPattern\AbstractFactoryDesignPattern\obj\Debug\AbstractFactoryDesignPattern.pdb
