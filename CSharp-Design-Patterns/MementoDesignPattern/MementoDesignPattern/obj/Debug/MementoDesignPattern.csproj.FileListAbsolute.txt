@@ -1,0 +1,7 @@
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\MementoDesignPattern\MementoDesignPattern\bin\Debug\MementoDesignPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\MementoDesignPattern\MementoDesignPattern\bin\Debug\MementoDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\MementoDesignPattern\MementoDesignPattern\bin\Debug\MementoDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\MementoDesignPattern\MementoDesignPattern\obj\Debug\MementoDesignPattern.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\MementoDesignPattern\MementoDesignPattern\obj\Debug\MementoDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\MementoDesignPattern\MementoDesignPattern\obj\Debug\MementoDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\MementoDesignPattern\MementoDesignPattern\obj\Debug\MementoDesignPattern.pdb

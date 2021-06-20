@@ -1,0 +1,7 @@
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProxyDesignPattern\ProxyDesignPattern\bin\Debug\ProxyDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProxyDesignPattern\ProxyDesignPattern\obj\Debug\ProxyDesignPattern.pdb

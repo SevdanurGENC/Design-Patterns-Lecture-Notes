@@ -1,0 +1,7 @@
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ObserverDesingPattern\ObserverDesingPattern\bin\Debug\ObserverDesingPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ObserverDesingPattern\ObserverDesingPattern\bin\Debug\ObserverDesingPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ObserverDesingPattern\ObserverDesingPattern\bin\Debug\ObserverDesingPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ObserverDesingPattern\ObserverDesingPattern\obj\Debug\ObserverDesignPattern.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ObserverDesingPattern\ObserverDesingPattern\obj\Debug\ObserverDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ObserverDesingPattern\ObserverDesingPattern\obj\Debug\ObserverDesingPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ObserverDesingPattern\ObserverDesingPattern\obj\Debug\ObserverDesingPattern.pdb

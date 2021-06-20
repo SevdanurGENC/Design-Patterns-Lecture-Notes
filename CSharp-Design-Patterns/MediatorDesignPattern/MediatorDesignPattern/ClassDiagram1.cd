@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MediatorDesignPattern.MediatorDesignPattern.AirlineBase">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAIAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>MediatorDesignPattern\AirlineBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorDesignPattern.MediatorDesignPattern.AtaturkAirport" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACIAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MediatorDesignPattern\AtaturkAirport.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MediatorDesignPattern.MediatorDesignPattern.PegasusAirline">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>MediatorDesignPattern\PegasusAirline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorDesignPattern.MediatorDesignPattern.THYAirline">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>MediatorDesignPattern\THYAirline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MediatorDesignPattern.Program">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MediatorDesignPattern.MediatorDesignPattern.IAirport">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MediatorDesignPattern\IAirport.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

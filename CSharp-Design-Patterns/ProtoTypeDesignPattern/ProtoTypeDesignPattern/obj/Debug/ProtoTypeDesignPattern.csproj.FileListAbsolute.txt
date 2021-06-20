@@ -1,0 +1,7 @@
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProtoTypeDesignPattern\ProtoTypeDesignPattern\bin\Debug\ProtoTypeDesignPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProtoTypeDesignPattern\ProtoTypeDesignPattern\bin\Debug\ProtoTypeDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProtoTypeDesignPattern\ProtoTypeDesignPattern\bin\Debug\ProtoTypeDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\ProtoTypeDesignPattern.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\ProtoTypeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\ProtoTypeDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\ProtoTypeDesignPattern\ProtoTypeDesignPattern\obj\Debug\ProtoTypeDesignPattern.pdb

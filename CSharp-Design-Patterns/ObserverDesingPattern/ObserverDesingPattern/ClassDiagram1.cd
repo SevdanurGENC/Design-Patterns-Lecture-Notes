@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ObserverDesingPattern.ObserverDesignPattern.AnneObserver">
+    <Position X="1.25" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="ObserverDesingPattern.ObserverDesignPattern.Observer" ManuallyRouted="true">
+      <Path>
+        <Point X="3.75" Y="1.603" />
+        <Point X="3.75" Y="2.267" />
+        <Point X="2" Y="2.267" />
+        <Point X="2" Y="2.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObserverDesignPattern\AnneObserver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverDesingPattern.ObserverDesignPattern.BabaObserver">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObserverDesignPattern\BabaObserver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverDesingPattern.ObserverDesignPattern.Observer">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObserverDesignPattern\Observer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverDesingPattern.ObserverDesignPattern.Ogrenci">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABABAAAACAgAAAAAIAABAABABAAAAAQA=</HashCode>
+      <FileName>ObserverDesignPattern\Ogrenci.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverDesingPattern.ObserverDesignPattern.OgretmenObserver">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <InheritanceLine Type="ObserverDesingPattern.ObserverDesignPattern.Observer" ManuallyRouted="true">
+      <Path>
+        <Point X="3.75" Y="1.603" />
+        <Point X="3.75" Y="2.277" />
+        <Point X="5.5" Y="2.277" />
+        <Point X="5.5" Y="2.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObserverDesignPattern\OgretmenObserver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ObserverDesingPattern.Program">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

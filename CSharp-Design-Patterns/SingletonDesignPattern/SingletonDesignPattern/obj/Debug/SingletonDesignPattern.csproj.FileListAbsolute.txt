@@ -1,0 +1,7 @@
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.pdb
