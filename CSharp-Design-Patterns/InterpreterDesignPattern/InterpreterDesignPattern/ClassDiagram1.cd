@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InterpreterDesignPattern.InterpreterDesignPattern.Context">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterDesignPattern\Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InterpreterDesignPattern.InterpreterDesignPattern.DepartmentExpression">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterDesignPattern\DepartmentExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InterpreterDesignPattern.InterpreterDesignPattern.HRExpression">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterDesignPattern\HRExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InterpreterDesignPattern.InterpreterDesignPattern.SalesExpression">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterDesignPattern\SalesExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InterpreterDesignPattern.InterpreterDesignPattern.SoftwareExpression">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterpreterDesignPattern\SoftwareExpression.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InterpreterDesignPattern.Program">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

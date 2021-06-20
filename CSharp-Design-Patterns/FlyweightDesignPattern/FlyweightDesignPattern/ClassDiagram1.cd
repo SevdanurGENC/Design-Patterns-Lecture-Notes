@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FlyweightDesignPattern.FlyweightDesignPattern.Character">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAQAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FlyweightDesignPattern\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightDesignPattern.FlyweightDesignPattern.CharacterA">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FlyweightDesignPattern\CharacterA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightDesignPattern.FlyweightDesignPattern.CharacterB">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FlyweightDesignPattern\CharacterB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightDesignPattern.FlyweightDesignPattern.CharacterFactory">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FlyweightDesignPattern\CharacterFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightDesignPattern.FlyweightDesignPattern.CharacterZ">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FlyweightDesignPattern\CharacterZ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightDesignPattern.Program">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

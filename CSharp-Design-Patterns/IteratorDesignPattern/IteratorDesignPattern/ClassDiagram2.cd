@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IteratorDesignPattern.IteratorDesignPattern.Aggregate">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IteratorDesignPattern\Aggregate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IteratorDesignPattern.IteratorDesignPattern.ConcreteAggregate">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACCAAAAAQAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IteratorDesignPattern\ConcreteAggregate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IteratorDesignPattern.IteratorDesignPattern.ConcreteIterator">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAAAAAAQQAAAAAAAAAAABAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>IteratorDesignPattern\ConcreteIterator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IteratorDesignPattern.IteratorDesignPattern.Iterator">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACAAAAAAAQAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IteratorDesignPattern\Iterator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IteratorDesignPattern.Program">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

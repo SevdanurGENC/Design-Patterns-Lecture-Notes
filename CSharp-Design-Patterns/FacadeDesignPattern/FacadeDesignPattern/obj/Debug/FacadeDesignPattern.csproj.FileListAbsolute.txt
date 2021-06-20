@@ -1,0 +1,7 @@
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FacadeDesignPattern\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FacadeDesignPattern\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\InterpreterDesignPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\InterpreterDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\InterpreterDesignPattern\InterpreterDesignPattern\bin\Debug\InterpreterDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\InterpreterDesignPattern.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\InterpreterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\InterpreterDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\InterpreterDesignPattern\InterpreterDesignPattern\obj\Debug\InterpreterDesignPattern.pdb

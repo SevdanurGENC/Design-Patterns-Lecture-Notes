@@ -1,0 +1,7 @@
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FlyweightDesignPattern\FlyweightDesignPattern\bin\Debug\FlyweightDesignPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FlyweightDesignPattern\FlyweightDesignPattern\bin\Debug\FlyweightDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FlyweightDesignPattern\FlyweightDesignPattern\bin\Debug\FlyweightDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FlyweightDesignPattern\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FlyweightDesignPattern\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FlyweightDesignPattern\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\FlyweightDesignPattern\FlyweightDesignPattern\obj\Debug\FlyweightDesignPattern.pdb
