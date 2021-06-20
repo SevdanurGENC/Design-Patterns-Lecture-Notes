@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TemplateDesignPattern.Program">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TemplateDesignPattern.TemplateDesignPattern.Alisveris">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAABAAABAQAAAAAAACAAAAAAAAAEAIAAAAAAAAAAA=</HashCode>
+      <FileName>TemplateDesignPattern\Alisveris.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TemplateDesignPattern.TemplateDesignPattern.Buzdolabi">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <InheritanceLine Type="TemplateDesignPattern.TemplateDesignPattern.Alisveris" FixedToPoint="true">
+      <Path>
+        <Point X="2.5" Y="3.017" />
+        <Point X="2.5" Y="3.375" />
+        <Point X="3.5" Y="3.375" />
+        <Point X="3.5" Y="3.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TemplateDesignPattern\Buzdolabi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TemplateDesignPattern.TemplateDesignPattern.Televizyon">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>TemplateDesignPattern\Televizyon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TemplateDesignPattern.TemplateDesignPattern.OdemeTipi">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>TemplateDesignPattern\OdemeTipi.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

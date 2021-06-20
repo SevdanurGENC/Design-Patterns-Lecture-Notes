@@ -1,0 +1,6 @@
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\StrategyDesignPattern\StrategyDesignPattern\bin\Debug\StrategyDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\StrategyDesignPattern\StrategyDesignPattern\obj\Debug\StrategyDesignPattern.pdb
