@@ -1,0 +1,7 @@
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\BridgeDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\BridgeDesignPattern.pdb

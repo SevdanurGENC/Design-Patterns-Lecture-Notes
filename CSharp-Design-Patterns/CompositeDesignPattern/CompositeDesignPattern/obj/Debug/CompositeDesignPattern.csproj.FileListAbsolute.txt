@@ -1,0 +1,7 @@
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CompositeDesignPattern\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CompositeDesignPattern\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CommandDesignPattern\CommandDesignPattern\bin\Debug\CommandDesignPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CommandDesignPattern\CommandDesignPattern\bin\Debug\CommandDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CommandDesignPattern\CommandDesignPattern\bin\Debug\CommandDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\CommandDesignPattern\CommandDesignPattern\obj\Debug\CommandDesignPattern.pdb

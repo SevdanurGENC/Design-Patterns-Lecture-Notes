@@ -1,0 +1,7 @@
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csprojAssemblyReference.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+C:\Users\Nano\source\repos\CSharp-Design-Patterns\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb

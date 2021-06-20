@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CompositeDesignPattern.CompositeDesignPattern.Component">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABQAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CompositeDesignPattern\Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositeDesignPattern.CompositeDesignPattern.Composite">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CompositeDesignPattern\Composite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositeDesignPattern.CompositeDesignPattern.Leaf">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CompositeDesignPattern\Leaf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompositeDesignPattern.Program">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
