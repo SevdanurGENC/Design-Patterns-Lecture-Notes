@@ -7,3 +7,4 @@ In this repo, there are lecture notes of Design Patterns by C# and Java.
 
 
 https://stackoverflow.com/questions/17191218/generate-a-class-diagram-from-visual-studio
+https://www.youtube.com/watch?v=FnOR--bKdi8
